@@ -36,6 +36,7 @@ Mental-Health-Prediction/
 ├── style.css
 ├── Student Social Media And Mental Health Impact.csv
 └── README.md
+|__Mntal_Health_Model.pkl
 ```
 
  🔍 Machine Learning Workflow
